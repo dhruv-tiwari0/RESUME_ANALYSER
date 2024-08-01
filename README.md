@@ -4,7 +4,7 @@ Features Resume Analysis: Evaluate resumes using an advanced language model. ATS
 
 Requirements streamlit google-generativeai python-dotenv pdf2image
 
-Installation Clone the repository: git clone (https://github.com/rishabh-jain26/resume_analyser.git) cd llm-resume-analyzer
+Installation Clone the repository: git clone (https://github.com/dhruv-tiwari0/RESUME_ANALYSER.git) cd llm-resume-analyzer
 
 Install the required packages: pip install -r requirements.txt
 
